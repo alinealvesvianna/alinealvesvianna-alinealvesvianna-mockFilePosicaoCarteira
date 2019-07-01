@@ -1,5 +1,6 @@
 {
   "instruments": [
+    [
       {
         "date": null,
         "identifier": "PETR4.SA",
@@ -10,5 +11,6 @@
         "trader": null,
         "strategy": null
       }
+    ]
   ]
 }
