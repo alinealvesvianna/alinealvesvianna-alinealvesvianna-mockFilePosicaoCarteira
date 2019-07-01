@@ -1,4 +1,16 @@
 {
   "instruments": [
+    [
+      {
+        "date": null,
+        "identifier": "PETR4.SA",
+        "qty": "330600",
+        "price": "90.10",
+        "tradetype": "BUY",
+        "portfolio": "PRF_ARC",
+        "trader": null,
+        "strategy": null
+      }
+    ]
   ]
 }
