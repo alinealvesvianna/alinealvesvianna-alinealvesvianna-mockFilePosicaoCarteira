@@ -1,6 +1,5 @@
 {
   "instruments": [
-    [
       {
         "date": null,
         "identifier": "PETR4.SA",
@@ -9,8 +8,8 @@
         "tradetype": "BUY",
         "portfolio": "PRF_ARC",
         "trader": null,
-        "strategy": null
+        "strategy": null,
+        "id": 1
       }
     ]
-  ]
 }
